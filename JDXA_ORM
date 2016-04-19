@@ -4,9 +4,13 @@
 
 **By Damodar Periwal, architect and developer of JDXA ORM**
 
-This is a brief introduction to the JDXA Object Relational Mapping (ORM) product. JDXA (a.k.a. JDX for Android) can be used to easily develop mobile apps that require intuitive object-oriented access to device-local SQLite relational data on the Android platform. This document provides an overview of JDXA followed by brief instructions on how to install and use the product. It also provides a simple code example and descriptions of some Android-specific utility classes to simplify app development with JDXA.
+This is a brief introduction to the [JDXA](http://www.softwaretree.com/v1/products/jdxa/jdxa.html) Object Relational Mapping (ORM) product. JDXA (a.k.a. JDX for Android) can be used to easily develop mobile apps that require intuitive object-oriented access to device-local SQLite relational data on the Android platform. This document provides an overview of JDXA followed by brief instructions on how to install and use the product. It also provides a simple code example and descriptions of some Android-specific utility classes to simplify app development with JDXA.
 
 This document also contains links to some illustrative code snippets for different mapping scenarios like one-to-one, one-to-many, and many-to-many relationships, and JSON object persistence.  Finally, there is a list of many sample projects shipped with the product SDK that demonstrate how different features of JDXA may easily be used to simplify object modeling and data integration tasks for Android apps.
+
+[**Download JDXA ORM SDK**](http://softwaretree.com/v1/products/jdxa/download-jdxa.php)
+
+The SDK comes with a comprehensive user manual, javadocs, and many working sample apps.
 
 **Note:** JDX is the core Object Relational Mapping (ORM) technology developed by Software Tree. This core ORM technology has been adapted for the Android platform and that adaptation is called JDXA. In the context of the Android platform, the terms _JDX_, _JDXA_, and _JDX for Android_ may be used synonymously.
 
